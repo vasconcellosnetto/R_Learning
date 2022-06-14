@@ -10,4 +10,4 @@ y = iris[,"V4"]
 # This feeds the variables "x" and "y" the values in columns "V2" and "V4" respectively, separating if using ","
 
 plot(x, y, type="p", main="Iris Plant", xlab="Sepal Width", ylab="Petal Width")
-# "plot" is the scatter plot graphic, "x" and "y" are the axis, graphic "type" is set to points, "main" is the title of the graphic, "xlab" and "ylab" are the axis labels
+# "plot" is the scatter plot graph, "x" and "y" are the axis, graphic "type" is set to points, "main" is the title of the graphic, "xlab" and "ylab" are the axis labels
