@@ -1,0 +1,3 @@
+caminho = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
+iris = read.table(caminho, header=false, sep=",")
+head(iris)
